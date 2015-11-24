@@ -1,0 +1,13 @@
+{
+  "name": "tomorrow-night-eighties-syntax",
+  "theme": "syntax",
+  "version": "0.5.0",
+  "description": "An atom conversion of the Tomorrow Night Eighties theme. Based on the works of Blakehall https://github.com/blakehall/tomorrow-night-eighties",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "repository": "https://github.com/atom/atom-dark-ui",
+  "homepage": "https://github.com/Jovani/tomorrow-night-eighties#readme",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
